@@ -7,13 +7,13 @@ with open("README.md", "r") as fh:
 setuptools.setup(
 
     name="DataScienceFuncs",  # Replace with your own username
-    version="0.0.1",
-    author="Marcos Morales",
+    version="0.0.2",
+    author="marcosmorales",
     author_email="marcosmorales2011@gmail.com",
     description="A small package for Data Science functions.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/MarcosMorales2011/lambdata-mm",
+    url="https://github.com/MarcosMorales2011/DataFunctions",
     packages=setuptools.find_packages(),
     install_requires=REQUIRED,
     classifiers=[
