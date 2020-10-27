@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
 
     name="DataScienceFuncs",  # Replace with your own username
-    version="0.0.2",
+    version="0.0.4",
     author="marcosmorales",
     author_email="marcosmorales2011@gmail.com",
     description="A small package for Data Science functions.",
