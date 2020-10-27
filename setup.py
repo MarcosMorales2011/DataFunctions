@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
 
     name="example-pkg-MarcosMorales2011",  # Replace with your own username
-    version="0.1.2",
+    version="0.1.4",
     author="Marcos Morales",
     author_email="marcosmorales2011@gmail.com",
     description="A small package for Data Science functions.",
